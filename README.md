@@ -17,7 +17,7 @@ I'm Pablo León, Software Developer from Córdoba 🏴‍☠️. I am an enthusi
 
 ## Hello World!! 🤔
 - 🔭 I’m currently working with Java & Angular
-- 🌱 I’m currently learning Angular, Typescript, SpringBoot
+- 🌱 I’m currently learning about Angular & TS, SpringBoot, TDD, Clean architectures and more! 
 - 🎯 Portfolio site: [Here!](https://pabloleonalcaide.github.io/Portfolio/)
 - ⚡ Fun fact: I graduated in Psychology before studying web development
 - 📫 Reach me in [Linkedin](https://www.linkedin.com/in/pablo-leon-alcaide/)
