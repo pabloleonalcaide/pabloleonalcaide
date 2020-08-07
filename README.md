@@ -23,4 +23,4 @@ I'm Pablo León, Software Developer from Córdoba 🏴‍☠️. I am an enthusi
 - 📫 Reach me in [Linkedin](https://www.linkedin.com/in/pablo-leon-alcaide/)
 
 ---
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=pabloleonalcaide&hide=["issues"]&show_icons=true)
+![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pabloleonalcaide&hide=["issues"]&show_icons=true&theme=synthwave)
