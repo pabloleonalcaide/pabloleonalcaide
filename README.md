@@ -13,11 +13,11 @@ I'm Pablo León, Software Developer from Córdoba 🏴‍☠️. I am an enthusi
 ## About 🧐
 - 🗣 I am usually part of many events as a Participant, Organizer or Mentor (mainly as a [GDG](https://github.com/GDGCordoba) Organizer)
 - 💂‍♀️🧔🏻 Unconditional follower of [CodelyTV](https://github.com/CodelyTV/)
-- ☕️ Making peace with #Java
+- ☕️ Fullstack coffee drinker
 
 ## Hello World!! 🤔
 - 🔭 I’m currently working with Java & Angular
-- 🌱 I’m currently learning about Angular & TS, SpringBoot, TDD, Clean architectures and more! 
+- 🌱 I’m currently learning about NodeJS & TS, React, TDD, Clean architectures and more! 
 - 🎯 Portfolio site: [Here!](https://pabloleonalcaide.github.io/Portfolio/)
 - ⚡ Fun fact: I graduated in Psychology before studying web development
 - 📫 Reach me in [Linkedin](https://www.linkedin.com/in/pablo-leon-alcaide/)
