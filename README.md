@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-I'm Pablo León, Software Developer from Córdoba 🏴‍☠️. I am an enthusiast of Clean Code, always trying to learn how to do my best and how to share it with the community
+I'm Pablo León, Software Developer from Córdoba 🏴‍☠️. I am an enthusiast of Clean Code, always trying to learn how to do my best and how to share it with the community. I currently work in [Genially](https://www.genial.ly/)
 
 ## About 🧐
 - 🗣 I am usually part of many events as a Participant, Organizer or Mentor (mainly as a [GDG](https://github.com/GDGCordoba) Organizer)
@@ -16,8 +16,8 @@ I'm Pablo León, Software Developer from Córdoba 🏴‍☠️. I am an enthusi
 - ☕️ Fullstack coffee drinker
 
 ## Hello World!! 🤔
-- 🔭 I’m currently working with Java & Angular
-- 🌱 I’m currently learning about NodeJS & TS, React, TDD, Clean architectures and more! 
+- 🔭 I’m currently working with NodeJS, TS & MongoDB
+- 🌱 I’m currently learning about React, TDD, Clean architectures and more! Of course improving with NodeJS & TS
 - 🎯 Portfolio site: [Here!](https://pabloleonalcaide.github.io/Portfolio/)
 - ⚡ Fun fact: I graduated in Psychology before studying web development
 - 📫 Reach me in [Linkedin](https://www.linkedin.com/in/pablo-leon-alcaide/)
