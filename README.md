@@ -12,7 +12,7 @@ I'm Pablo León, Software Developer from Córdoba 🏴‍☠️. I am an enthusi
 
 ## About 🧐
 - 🗣 I am usually part of many events as a Participant, Organizer or Mentor (mainly as a [GDG](https://github.com/GDGCordoba) Organizer)
-- 💂‍♀️🧔🏻 Unconditional follower of [CodelyTV](https://github.com/CodelyTV/)
+- <:unicorn:> Unconditional follower of [CodelyTV](https://github.com/CodelyTV/)
 - ☕️ Fullstack coffee drinker
 
 ## Hello World!! 🤔
