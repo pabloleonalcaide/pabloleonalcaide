@@ -18,7 +18,9 @@ I'm Pablo León, Software Developer from Córdoba 🏴‍☠️. I am an enthusi
 ## Hello World!! 🤔
 - 🔭 I’m currently working with NodeJS, TS & MongoDB
 - 🌱 I’m currently learning about React, TDD, Clean architectures and more! Of course improving with NodeJS & TS
-- 🎯 Portfolio site: [Here!](https://pabloleonalcaide.github.io/Portfolio/)
+<!--- 
+- 🎯 Portfolio site: [Here!](https://pabloleonalcaide.github.io/Portfolio/) 
+-->
 - ⚡ Fun fact: I graduated in Psychology before studying web development
 - 📫 Reach me in [Linkedin](https://www.linkedin.com/in/pablo-leon-alcaide/)
 
